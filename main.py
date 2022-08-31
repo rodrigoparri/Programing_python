@@ -131,8 +131,11 @@ if __name__ == "__main__":
     # print(l)
 
 
-    import_functions.test()
+
     l = list(globals())
-    print(l)
+    for var in l:
+        print(var)
+
+
 
 
