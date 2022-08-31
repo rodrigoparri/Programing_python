@@ -136,6 +136,9 @@ if __name__ == "__main__":
     for var in l:
         print(var)
 
+    print("rodrigo")
+    print("parrilla")
+
 
 
 
